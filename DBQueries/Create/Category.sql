@@ -1,6 +1,0 @@
-CREATE TABLE Category
-(
-    Id int PRIMARY KEY AUTO_INCREMENT,
-    Title NVARCHAR(350) NOT NULL,
-    Description NVARCHAR(1500)
-);
