@@ -1,0 +1,1 @@
+INSERT INTO bookstoredb.account (Id, FirstName, LastName, Email, Password, IsDeleted, IsAdmin) VALUES (1, 'Admin', 'Admin', 'admin@mail.com', '123456', 0, 1);
